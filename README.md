@@ -1,7 +1,7 @@
   # **RomixerX Server** 🕯
   ### Мистический сервер с квестами и атмосферой приключений
 
-  [![Discord](https://img.shields.io/discord/972218989235298385?color=5865F2&label=Discord&logo=discord&logoColor=red)](https://discord.com/invite/PNp3S3sanv)
+  [![Discord](https://img.shields.io/discord/972218989235298385?color=5865F2&label=Discord&logo=discord&logoColor=red)](https://discord.gg/romixerx)
   [![Website](https://img.shields.io/badge/romixerx.ru-online-111111?logoColor=white)](https://romixerx.ru)
   [![Telegram](https://img.shields.io/badge/Telegram-@RomixerX-26A5E4?logo=telegram&logoColor=red)](https://t.me/RomixerX)
   [![Rules](https://img.shields.io/badge/Rules-romixerx.ru-8B0000?logo=bookstack&logoColor=red)](https://romixerx.ru/rules)
