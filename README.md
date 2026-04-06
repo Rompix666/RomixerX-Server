@@ -1,7 +1,7 @@
   # **RomixerX Server** 🕯
   ### Мистический сервер с квестами и атмосферой приключений
 
-  [![Discord](https://img.shields.io/discord/972218989235298385?color=5865F2&label=Discord&logo=discord&logoColor=red)](https://discord.gg/romixerx)
+  [![Discord](https://img.shields.io/discord/972218989235298385?color=5865F2&label=Discord&logo=discord&logoColor=red)](https://discord.com/invite/PNp3S3sanv)
   [![Website](https://img.shields.io/badge/romixerx.ru-online-111111?logoColor=white)](https://romixerx.ru)
   [![Telegram](https://img.shields.io/badge/Telegram-@RomixerX-26A5E4?logo=telegram&logoColor=red)](https://t.me/RomixerX)
   [![Rules](https://img.shields.io/badge/Rules-romixerx.ru-8B0000?logo=bookstack&logoColor=red)](https://romixerx.ru/rules)
@@ -16,7 +16,7 @@
   Исследуй мир загадок и мистики.  
   Выполняй квесты, зарабатывай валюту и раскрывай тайны сервера.
 
-  **Версия:** Beta 0.3.0  
+  **Версия:** Beta 0.3.1  
   **Поддержка:** 1.21.3 – 1.22.x
 
   ---
@@ -41,7 +41,7 @@
 
 | /menu | /mistika | /eenc list | /warp camp |
 |:--:|:--:|:--:|:--:|
-| ![Menu](https://cdn.modrinth.com/data/cached_images/0ba016b938ffbed97aea2686fa39ffbd86c90a5a.png) | ![mistika](https://cdn.modrinth.com/data/cached_images/c1088cdebc1283b6cd9744639995dba14bfbb320.png) | ![eenc](https://cdn.modrinth.com/data/cached_images/cfe0af16012788807876dbc9e6d76507d7098dae.png) | ![camp](https://cdn.modrinth.com/data/cached_images/0b6a37c015a7c442e8b7b2688c6114b5eb697312.png) |
+| ![Menu](https://cdn.modrinth.com/data/cached_images/0ba016b938ffbed97aea2686fa39ffbd86c90a5a.png) | ![mistika](https://cdn.modrinth.com/data/cached_images/c1088cdebc1283b6cd9744639995dba14bfbb320.png) | ![eenc](https://cdn.modrinth.com/data/cached_images/cfe0af16012788807876dbc9e6d76507d7098dae.png) | ![camp](https://i.ibb.co/jkGp4FGZ/2026-04-03-16-21-14.png) |
 
 </div>
 
