@@ -1,5 +1,5 @@
   # **RomixerX Server** 🕯
-  ### Мистический сервер с квестами и атмосферой приключений
+  ### Мистический сервер майнкрафт с квестами и атмосферой приключений
 
   [![Discord](https://img.shields.io/discord/972218989235298385?color=5865F2&label=Discord&logo=discord&logoColor=red)](https://discord.com/invite/PNp3S3sanv)
   [![Website](https://img.shields.io/badge/romixerx.ru-online-111111?logoColor=white)](https://romixerx.ru)
